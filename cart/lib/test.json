@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "username": "john_doe",
+  "password": "password123",
+  "name": "John",
+  "lastName": "Doe",
+  "phone": "123-456-7890",
+  "status": "user",
+  "shoppingCart": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 10.0,
+      "imageUrl": "url_to_image_1",
+      "date": "2023-08-23T12:00:00Z",
+      "quantity": 3
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 20.0,
+      "imageUrl": "url_to_image_2",
+      "date": "2023-08-23T12:00:00Z",
+      "quantity": 5
+    }
+  ]
+}
